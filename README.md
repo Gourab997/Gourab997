@@ -21,13 +21,13 @@
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <img alt="Node" src="https://img.shields.io/badge/-Node js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express js-339933?style=flat-square&logo=express&logoColor=white" />
-  <img alt="Deno" src="https://img.shields.io/badge/-Deno js-339933?style=flat-square&logo=deno&logoColor=white" />
+
 </p>
 <p>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="MySql" src="https://img.shields.io/badge/-MySql-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" />
-  <img alt="PostgreSql" src="https://img.shields.io/badge/-PostgreSql-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+
 </p>
 
 [comment]: <> (<p>)
