@@ -100,7 +100,7 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 
 <p align="center">
 
-<a href="gourabg998@gmail.com"><img src="https://img.shields.io/badge/-mukhulaazam@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="gourabg998@gmail.com"><img src="https://img.shields.io/badge/-gourabg998@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/gourab997/"><img src="https://img.shields.io/badge/-Mukhula Azam Mamun-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/gourab.ghosh.568632"><img src="https://img.shields.io/badge/Mamun-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
