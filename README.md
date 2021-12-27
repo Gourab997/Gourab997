@@ -46,7 +46,7 @@
   
 [comment]: <> (  <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />)
 
-[comment]: <> (  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />)
+
 
 [comment]: <> (  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />)
 
@@ -56,7 +56,7 @@
 
 [comment]: <> (  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />)
 
-[comment]: <> (  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />)
+
 
 [comment]: <> (  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />)
   
@@ -72,8 +72,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Microservice, React js
+- 🌱 I’m currently learning React and Nuxt
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -100,7 +100,7 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 
 <p align="center">
 
-<!-- <a href="mailto:mukhulaazam@gmail.com"><img src="https://img.shields.io/badge/-mukhulaazam@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/cs-mamun"><img src="https://img.shields.io/badge/-Mukhula Azam Mamun-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://facebook.com/isMamunActive"><img src="https://img.shields.io/badge/Mamun-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://instagram.com/isMamunActive"><img src="https://img.shields.io/badge/-Mamun-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> -->
+<a href="gourabg998@gmail.com"><img src="https://img.shields.io/badge/-mukhulaazam@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/gourab997/"><img src="https://img.shields.io/badge/-Mukhula Azam Mamun-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/gourab.ghosh.568632"><img src="https://img.shields.io/badge/Mamun-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+
