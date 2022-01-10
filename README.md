@@ -80,13 +80,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![Gourab's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gourab997&count_private=true&layout=compact)
+
 
 [![Years Badge](https://badges.pufler.dev/years/gourab997)](https://badges.pufler.dev)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gourab997&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gourab997)](https://github.com/anuraghazra/github-readme-stats)
+![Gourab's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gourab997&count_private=true&layout=compact)
 <!-- 
 ##### 🤝🏻 Connect with Me
 
