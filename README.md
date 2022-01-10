@@ -80,15 +80,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<!--START_SECTION:waka-->
-```text
-JSX          8 hrs 42 mins   ████████████████▓░░░░░░░░   66.58 % 
-TypeScript   2 hrs 3 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-HTML         1 hr 20 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-JavaScript   56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-```
-<!--END_SECTION:waka-->
+![Gourab's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gourab997&count_private=true&layout=compact)
 
 [![Years Badge](https://badges.pufler.dev/years/gourab997)](https://badges.pufler.dev)
 
