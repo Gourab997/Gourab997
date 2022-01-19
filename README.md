@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/gourab997)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/gourab997)](https://badges.pufler.dev)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gourab997&theme=aura&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gourab997&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Gourab's GitHub stats](https://github-readme-stats.vercel.app/api?username=gourab997)](https://github.com/anuraghazra/github-readme-stats)
 ![Gourab's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gourab997&count_private=true&layout=compact)
