@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/gourab997)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/gourab997)](https://badges.pufler.dev)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gourab997&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
