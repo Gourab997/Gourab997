@@ -90,12 +90,13 @@ Here are some ideas to get you started:
 
 [![Gourab's GitHub stats](https://github-readme-stats.vercel.app/api?username=gourab997&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Gourab's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gourab997&count_private=true&layout=compact&theme=radical&hide_border=true)
-<!-- 
-##### 🤝🏻 Connect with Me
-
 ##Snake eating my contribution graph
 
 ![snake gif](https://github.com/gourab997/gourab997/blob/output/github-contribution-grid-snake.gif)
+<!-- 
+##### 🤝🏻 Connect with Me
+
+
 
 
 
