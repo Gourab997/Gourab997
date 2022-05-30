@@ -93,6 +93,12 @@ Here are some ideas to get you started:
 <!-- 
 ##### 🤝🏻 Connect with Me
 
+##Snake eating my contribution graph
+
+![snake gif](https://github.com/gourab997/gourab997/blob/output/github-contribution-grid-snake.gif)
+
+
+
 <p align="center">
 
 <a href="gourabg998@gmail.com"><img src="https://img.shields.io/badge/-gourabg998@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
