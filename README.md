@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 <br/>
 ##Snake eating my contribution graph
 
-![snake gif](https://github.com/gourab997/gourab997/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/gourab997/gourab997/blob/output/github-contribution-grid-snake.svg)
 <!-- 
 ##### 🤝🏻 Connect with Me
 
