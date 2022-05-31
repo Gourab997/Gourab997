@@ -1,4 +1,4 @@
-#### Greeting 👋,
+<a href="https://app.daily.dev/gourab9997"><img src="https://api.daily.dev/devcards/3e03d1e5655742f1b21e2930757c93a0.png?r=0y1" width="400" alt="Gourab Kumar Ghosh's Dev Card"/></a>
 
 
 **Gourab** is a  tech enthusiastic where I belong a trait of code poetic.✨
